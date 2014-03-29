@@ -23,8 +23,16 @@
     <None Include="vertex.glsl">
       <Filter>Source Files</Filter>
     </None>
+    <None Include="frag1.glsl">
+      <Filter>Source Files</Filter>
+    </None>
     <None Include="frag.glsl">
       <Filter>Source Files</Filter>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="log.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
